@@ -7,9 +7,9 @@ Las damas es un juego de mesa para dos contrincantes. El juego consiste en mover
 Existen varias modalidades, con distintos tableros y número de piezas. La versión internacional, también llamada «damas polacas», está reglamentada por la Fédération Mondiale du Jeu de Dames (FMJD) y se juega en un tablero de 10×10 cuadros con dos jugadores con 20 piezas cada uno. Las piezas normales se mueven 1 cuadrado verticalmente y si se llega al borde en la zona del enemigo la pieza se convertirá en reina, la cual se puede mover en diagonal hacia cualquier lado los cuadros que desee.
 
 ¿Cómo hacer empate?
-Se puede empatar si todas las piezas se bloquean entre sí.
-Si en caso cambos jugadores se quedan con una sola ficha.
-Si la partida se prolongó mucho (si la partida es muy larga)
+-Se puede empatar si todas las piezas se bloquean entre sí.
+-Si en caso cambos jugadores se quedan con una sola ficha.
+-Si la partida se prolongó mucho (si la partida es muy larga)
 
 Reglas Tradicionales:
 Las damas es un juego para dos personas en un tablero de 64 casillas de 8x8 celdas. El tablero se coloca de manera que cada jugador tenga una casilla blanca en su parte inferior derecha.
